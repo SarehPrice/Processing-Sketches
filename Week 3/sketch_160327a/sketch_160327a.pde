@@ -18,4 +18,5 @@ void draw() {
   
   p1.display();
   p2.display();
+  }
 }
